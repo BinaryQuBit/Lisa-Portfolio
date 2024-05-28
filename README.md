@@ -46,12 +46,11 @@
   <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/images/lisaPorfolioPersona.png?raw=true" width="99%"></a>
 </div>
 
-<br>
-
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/660a369c95c4b4e9bbcd9548b6daa25ad415525e/projectTitles/lisaPortfolioPersonaTemplate.svg" width="32%"></a>
 </div>
 
+<br>
 <br>
 
 <div style="width: 100%;">
